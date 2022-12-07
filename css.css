@@ -1,0 +1,142 @@
+body{
+    background-color: black;
+}
+
+.red{
+    background-color: rgb(46, 46, 46);
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.blue{
+    background-color: rgb(46, 46, 46);
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.green{
+    background-color: rgb(46, 46, 46);
+    border: 2px solid limegreen;
+    border-radius: 10px;
+}
+
+.yellow{
+    background-color: rgb(46, 46, 46);
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+
+.card{
+    margin-top: 50px;
+}
+
+.card-title{
+    color: lightgray;
+}
+
+.card-text{
+    color: darkgray;
+}
+
+.redb{
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.blueb{
+    background-color: black;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.greenb{
+    background-color: black;
+    border: 2px solid limegreen;
+    border-radius: 10px;
+}
+
+.yellowb{
+    background-color: black;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+
+.faixa{
+    height: 14px;
+    background-color: blue;
+    border-top: 4px solid yellow;
+}
+
+h1{
+    text-align: center;
+    color: lightgrey;
+    font-family: fantasy;
+    text-decoration: underline;
+    text-decoration-color: limegreen;
+    font-variant: small-caps;
+    font-size: 65px;
+}
+
+.faixaverde{
+    height: 8px;
+    background-color: red;
+}
+
+.faixapreta{
+    height: 40px;
+    background-color: black;
+
+}
+
+.redi{
+    border-top: 3px solid red;
+}
+
+.greeni{
+    border-top: 3px solid limegreen;
+}
+
+.bluei{
+    border-top: 3px solid blue;
+}
+
+.yellowi{
+    border-top: 3px solid yellow;
+}
+
+.card{
+    margin-left: 150px;
+    height: 650px;
+}
+
+.faixaamarela{
+    height: 15px;
+    background-color: yellow;
+    margin-top: 70px;
+}
+
+.redb:hover{
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.blueb:hover{
+    background-color: black;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.greenb:hover{
+    background-color: black;
+    border: 2px solid limegreen;
+    border-radius: 10px;
+}
+
+.yellowb:hover{
+    background-color: black;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+
